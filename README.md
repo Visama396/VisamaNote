@@ -2,5 +2,4 @@
 
 An Electron application with React, TypeScript and Tailwind
 
-![image](https://github.com/Visama396/VisamaNote/assets/35543599/da9f1660-0dd1-4aad-bbd1-a558bef0fa05)
-
+![VisamaNote](https://github.com/Visama396/VisamaNote/assets/35543599/3c8cb1e5-dbe7-4dc2-b591-7d988c6abcc7)
